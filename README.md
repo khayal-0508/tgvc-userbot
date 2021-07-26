@@ -31,6 +31,11 @@ along with this userbot.
 Check [smart-plugins](https://github.com/callsmusic/tgvc-userbot/tree/smart-plugins)
 branch If you want to use `radio` or `recorder` plugin.
 
+### 💜 Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/khayal-0508/tgvc-userbot)
+
+
 ## Introduction
 
 **Features**
